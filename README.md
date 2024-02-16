@@ -1,2 +1,2 @@
 # Research-Work-Data-Security
- This repository contains implemtation work of my published research papers
+ This repository contains source code, database and other important data of my published research papers
